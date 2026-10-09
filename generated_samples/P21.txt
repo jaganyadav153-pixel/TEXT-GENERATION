@@ -1,0 +1,14 @@
+Prompt ID: P21
+Title: Fable with Moral
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write a 140-word modern fable about a delivery robot and a stray dog, ending with an explicit moral.
+---
+Every evening, Unit-7 rolled down 5th Street with hot biryanis, and every evening a stray dog with one torn ear barked it to a halt, demanding tribute of spilled rice.
+
+"Unscheduled delay," Unit-7 logged, rerouting around him. But the dog learned the new route. Then the rains came, flooding the underpass. Unit-7's wheels spun, its battery blinking red, parcels sinking.
+
+The stray grabbed its tow-loop in his teeth and pulled, paw by paw, to dry steps, then curled beside it till morning crew arrived.
+
+Unit-7 updated its log: "Delay saved delivery."
+
+Moral: Kindness is not inefficiency. Those we dismiss as obstacles may be the ones who pull us out when our own power runs out.

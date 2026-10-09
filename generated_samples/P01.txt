@@ -1,0 +1,6 @@
+Prompt ID: P01
+Title: Creative Story Opening
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write the opening paragraph (120-150 words) of a mystery novel set in a coastal lighthouse during a storm. Establish atmosphere and introduce one character.
+---
+The storm hit Blackrock Point just after midnight, throwing rain like gravel against the lighthouse glass. Inside, keeper Mara Ellison wound the great lens by hand — the motor had died at dusk — counting each groan of the gears to keep herself awake. Thunder rolled so close the floor trembled, and the beam stuttered, swept, caught a fishing boat pitching dangerously near the reef. Then, on the third rotation, the light found something it should not have: a row of wet footprints climbing the spiral stairs, though she had locked the iron door at sunset and heard no knock above the wind. Mara froze, lamp oil on her hands, listening. From above came a soft, deliberate tap — metal on glass — as if someone stood inside the lantern room, waiting to be let out.

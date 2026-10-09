@@ -1,0 +1,19 @@
+Prompt ID: P03
+Title: Poem - Nature
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write a 12-line free-verse poem about monsoon rains in a city, focusing on sound and memory.
+---
+First it drums on tin awnings like impatient fingers,
+then the gutters learn to sing.
+Buses hiss past, throwing up silver curtains,
+and every balcony becomes a small, wet orchestra.
+
+I remember grandmother calling the clothes in,
+her voice racing the thunder,
+the smell of earth rising to meet us
+like an old friend who never writes but always arrives.
+
+Now I stand at this window, city blurring to watercolor,
+traffic lights bleeding red and gold,
+and let the rain translate everything I miss
+into a language I can almost understand.

@@ -1,0 +1,10 @@
+Prompt ID: P13
+Title: Philosophical Mini-Essay
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: In 130 words, discuss: Does AI creativity count as real creativity? Present one argument for and one against, then your balanced view.
+---
+For: AI recombines patterns at a scale no human can, producing novel poems, melodies, and designs judged valuable by human audiences — which fits the standard definition of creativity as novel + useful.
+
+Against: AI lacks lived intent. It doesn't suffer, hope, or mean anything by its choices; it predicts likely tokens, not wrestles with truth. Creativity without consciousness may be impressive mimicry.
+
+Balanced view: AI creativity is real but derivative — like a brilliant improviser who never lived the blues yet plays them well. Value emerges in collaboration: human purpose plus machine variation expands what either could do alone. Credit the system, not the ghost.

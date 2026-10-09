@@ -1,0 +1,23 @@
+Prompt ID: P07
+Title: Formal Business Letter
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Draft a formal polite email to a client apologizing for a 2-week project delay, explaining cause briefly and proposing a revised timeline and compensation.
+---
+Subject: Revised Timeline for Website Redesign — Apology and Action Plan
+
+Dear Ms. Rao,
+
+I sincerely apologize for the two-week delay in delivering the website redesign, now due May 30 instead of May 16.
+
+The delay was caused by an unexpected API deprecation from our payment provider, requiring rework of the checkout module to ensure security and compliance.
+
+To make this right:
+1. Revised milestones shared below, with weekly demos every Friday.
+2. 10% discount on this phase as goodwill.
+3. Dedicated QA support at no extra cost.
+
+I value your trust and take full responsibility. May we schedule a 20-minute call tomorrow to confirm the plan?
+
+Warm regards,
+Kiran Desai
+Project Manager, PixelWorks

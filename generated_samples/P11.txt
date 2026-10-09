@@ -1,0 +1,24 @@
+Prompt ID: P11
+Title: Code Generation
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write a Python function `clean_text(text)` that lowercases, removes punctuation, and splits into words. Include docstring and example usage.
+---
+import string
+
+def clean_text(text: str) -> list[str]:
+    """Lowercase, remove punctuation, and split into words.
+
+    Args:
+        text: Raw input string.
+
+    Returns:
+        List of lowercase words with punctuation removed.
+    """
+    lowered = text.lower()
+    no_punct = lowered.translate(str.maketrans("", "", string.punctuation))
+    return no_punct.split()
+
+# Example usage:
+if __name__ == "__main__":
+    print(clean_text("Hello, World! This is GPT-Test."))
+    # ['hello', 'world', 'this', 'is', 'gpttest']

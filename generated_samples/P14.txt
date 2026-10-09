@@ -1,0 +1,6 @@
+Prompt ID: P14
+Title: Persuasive Paragraph
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Write a persuasive 120-word paragraph arguing why cities should invest in cycling infrastructure. Use one statistic (clearly labeled as illustrative) and emotional appeal.
+---
+Every morning, children hold their breath as buses roar past inches away — because we gave cars four lanes and bikes none. Investing in protected cycling lanes reverses that fear. [Illustrative statistic: cities with full bike networks see ~25% fewer short car trips.] That means cleaner air for asthmatic grandparents, cheaper commutes for students, and quieter streets where neighbors actually talk. A kilometre of bike lane costs a fraction of a flyover yet serves thousands daily without smoke or noise. Choose Handlebars over horns: paint the lanes, plant the dividers, and let our daughters ride to school smiling, not scared.

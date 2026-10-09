@@ -1,0 +1,26 @@
+# Text Generation Prompts - 22 diverse prompts
+# Categories: creative, poetry, informative, technical, business, persuasive, dialogue, instructional
+# Models: GPT-5 (OpenAI) + Gemini 3 Pro (Google) — odd IDs = GPT-5, even IDs = Gemini 3
+
+P01 ||| Creative Story Opening ||| Write the opening paragraph (120-150 words) of a mystery novel set in a coastal lighthouse during a storm. Establish atmosphere and introduce one character.
+P02 ||| Sci-Fi Flash Fiction ||| Write a 150-word flash fiction story about an astronaut who discovers a garden growing inside an asteroid. End with a twist.
+P03 ||| Poem - Nature ||| Write a 12-line free-verse poem about monsoon rains in a city, focusing on sound and memory.
+P04 ||| Haiku Chain ||| Write three linked haikus (5-7-5 each) about sunrise, noon, and sunset over a desert.
+P05 ||| Product Description ||| Write a 100-word e-commerce product description for wireless noise-cancelling headphones for students, highlighting battery, comfort, and price value.
+P06 ||| Marketing Email ||| Write a concise marketing email (subject + body <150 words) announcing a new organic coffee subscription, with a clear call-to-action.
+P07 ||| Formal Business Letter ||| Draft a formal polite email to a client apologizing for a 2-week project delay, explaining cause briefly and proposing a revised timeline and compensation.
+P08 ||| News Summarization ||| Summarize this article in 3 bullet points (max 60 words total): "The city council approved a new metro line connecting the airport to downtown, expected to reduce commute times by 30% and open in 2028 with a budget of $2.1 billion."
+P09 ||| ELI10 - Quantum ||| Explain quantum computing to a 10-year-old in under 120 words using a simple analogy. No jargon without explanation.
+P10 ||| Code Explanation ||| Explain what recursion is in Python to a beginner, with a short factorial code example and one common pitfall.
+P11 ||| Code Generation ||| Write a Python function `clean_text(text)` that lowercases, removes punctuation, and splits into words. Include docstring and example usage.
+P12 ||| History Explainer ||| In 150 words, explain why the printing press was transformative for Europe in the 15th century. Mention two specific effects.
+P13 ||| Philosophical Mini-Essay ||| In 130 words, discuss: Does AI creativity count as real creativity? Present one argument for and one against, then your balanced view.
+P14 ||| Persuasive Paragraph ||| Write a persuasive 120-word paragraph arguing why cities should invest in cycling infrastructure. Use one statistic (clearly labeled as illustrative) and emotional appeal.
+P15 ||| Dialogue Writing ||| Write a natural 10-line dialogue between a job applicant and an interviewer where the applicant asks about work-life balance.
+P16 ||| Recipe Instructions ||| Write a step-by-step recipe for vegetable fried rice for 2 people, including ingredients list, time, and one vegan substitution tip.
+P17 ||| Travel Guide ||| Write a 130-word travel guide entry for Hampi, India: best season, top 2 spots, local food, and one practical tip.
+P18 ||| Interview Answer ||| Answer "Tell me about yourself" for a fresher software engineering graduate applying for a backend role, in 100-120 words, confident but not arrogant tone.
+P19 ||| Social Media Post ||| Write an engaging LinkedIn post (<100 words) sharing lessons from completing a 30-day coding challenge, ending with a question to readers.
+P20 ||| Technical Summary ||| Explain in 120 words how transformers differ from RNNs for NLP, mentioning parallelism and long-range dependencies, for a CS undergraduate.
+P21 ||| Fable with Moral ||| Write a 140-word modern fable about a delivery robot and a stray dog, ending with an explicit moral.
+P22 ||| Counterfactual Reasoning ||| In 120 words, speculate: What if smartphones had never been invented? Describe one positive and one negative societal outcome.

@@ -1,0 +1,19 @@
+Prompt ID: P04
+Title: Haiku Chain
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Write three linked haikus (5-7-5 each) about sunrise, noon, and sunset over a desert.
+---
+Sunrise:
+pale gold spills softly —
+lizard tracks write morning news
+on cool, rippled sand.
+
+Noon:
+white sun hammers down,
+no shadow dares to linger,
+stones hold their hot breath.
+
+Sunset:
+violet dunes bleed —
+a coyote's lone prayer fades
+into star-salt night.

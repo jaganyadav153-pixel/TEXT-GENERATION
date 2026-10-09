@@ -1,0 +1,16 @@
+Prompt ID: P19
+Title: Social Media Post
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write an engaging LinkedIn post (<100 words) sharing lessons from completing a 30-day coding challenge, ending with a question to readers.
+---
+Just finished 30 days of code — 30 repos, 0 missed days. 🎯
+
+3 lessons:
+1. 45 mins daily beats 5-hour weekend sprints.
+2. Posting progress kept me accountable.
+3. Reading others' code taught me more than tutorials.
+
+Biggest win? I finally stopped fearing recursion.
+
+If you did a 30-day challenge, what habit stuck with you after?
+#100DaysOfCode #LearningInPublic

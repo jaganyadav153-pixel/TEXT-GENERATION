@@ -1,0 +1,19 @@
+Prompt ID: P10
+Title: Code Explanation
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Explain what recursion is in Python to a beginner, with a short factorial code example and one common pitfall.
+---
+Recursion is when a function calls itself to solve a smaller piece of the same problem, until it hits a simple stopping point called the base case.
+
+Example — factorial (5! = 5×4×3×2×1):
+
+def factorial(n):
+    if n <= 1:  # base case
+        return 1
+    return n * factorial(n-1)
+
+print(factorial(5))  # 120
+
+How it works: factorial(5) waits for factorial(4), which waits for factorial(3)... until factorial(1) returns 1, then all multiply back up.
+
+Common pitfall: forgetting the base case. Without `if n <= 1`, it calls itself forever and Python stops you with `RecursionError: maximum recursion depth exceeded`.

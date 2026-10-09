@@ -1,0 +1,12 @@
+Prompt ID: P22
+Title: Counterfactual Reasoning
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: In 120 words, speculate: What if smartphones had never been invented? Describe one positive and one negative societal outcome.
+---
+Without smartphones, we'd still carry separate cameras, maps, and MP3 players, tethered to desktops for internet.
+
+Positive: Public spaces might be more present. No doomscrolling at dinners; boredom could revive daydreaming, street games, and long conversations. Sleep and attention spans would likely be healthier, and small talk with strangers more common.
+
+Negative: Massive loss of access. A farmer checking crop prices, a migrant worker video-calling home, a student in a village attending online classes — all depend on cheap pocket internet. Banking, emergency help, and gig work for millions would be slower and more unequal.
+
+We'd be less distracted, but also less connected when it matters most.

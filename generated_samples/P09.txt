@@ -1,0 +1,12 @@
+Prompt ID: P09
+Title: ELI10 - Quantum
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Explain quantum computing to a 10-year-old in under 120 words using a simple analogy. No jargon without explanation.
+---
+Imagine a normal computer is like flipping one coin at a time — heads or tails, one answer at a time.
+
+A quantum computer is like spinning many coins at once. While spinning, each coin is a blurry mix of heads AND tails. Scientists call this blurry state a qubit.
+
+Because it holds many possibilities together, it can try lots of paths at once — like exploring every hallway of a maze simultaneously instead of one by one.
+
+We then stop the spinning and read the best answer. It's not magic, just clever physics that helps with big puzzles like medicines and secret codes.

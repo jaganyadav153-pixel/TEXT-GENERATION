@@ -1,0 +1,8 @@
+Prompt ID: P08
+Title: News Summarization
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Summarize this article in 3 bullet points (max 60 words total): "The city council approved a new metro line connecting the airport to downtown, expected to reduce commute times by 30% and open in 2028 with a budget of $2.1 billion."
+---
+• Council approved airport-downtown metro line, opening 2028.
+• Project costs $2.1B, aims to cut commute times 30%.
+• Expected to ease traffic and boost airport access.

@@ -1,0 +1,20 @@
+Prompt ID: P06
+Title: Marketing Email
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Write a concise marketing email (subject + body <150 words) announcing a new organic coffee subscription, with a clear call-to-action.
+---
+Subject: Your mornings just got better (and organic) ☕
+
+Hi Maya,
+
+We're launching Malabar Morning — single-origin, certified-organic coffee roasted weekly and delivered fresh to your door.
+
+Choose light, medium, or dark. Pause or cancel anytime. First bag 40% off.
+
+Taste the difference freshness makes — no stale supermarket beans, just traceable farms and full flavor.
+
+Claim your first bag → [Shop Subscriptions]
+
+Cheers,
+Arjun, Founder
+FreshRoast Co.

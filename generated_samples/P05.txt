@@ -1,0 +1,6 @@
+Prompt ID: P05
+Title: Product Description
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write a 100-word e-commerce product description for wireless noise-cancelling headphones for students, highlighting battery, comfort, and price value.
+---
+Study anywhere with the Aria Buds Pro. Hybrid noise-cancelling blocks library chatter, hostel noise, and bus rumble so you can focus. Plush memory-foam earcups stay comfortable through 6-hour study marathons, and a 40-hour battery (10-min quick charge = 5 hours) means no mid-lecture panic. Bluetooth 5.3 pairs with laptop + phone at once, and the fold-flat design fits any backpack. At student-friendly pricing with a 2-year warranty, it's premium focus without the premium bill. Includes mic for clear online classes.

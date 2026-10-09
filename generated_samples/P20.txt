@@ -1,0 +1,10 @@
+Prompt ID: P20
+Title: Technical Summary
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Explain in 120 words how transformers differ from RNNs for NLP, mentioning parallelism and long-range dependencies, for a CS undergraduate.
+---
+RNNs read text step-by-step, keeping a hidden state. That's sequential, so you can't parallelize across tokens, and gradients fade over long sentences — the model forgets early words.
+
+Transformers drop recurrence. Each token attends directly to all others via self-attention (Attention(Q,K,V) = softmax(QK^T/√d)V), with positional encodings marking order. Because attention is matrix math over the whole sequence, training parallelizes across tokens on GPUs.
+
+For long-range dependencies, the path between any two words is O(1) attention hop vs O(n) RNN steps, so "the book ... it" links easily. Cost: O(n²) memory, which is why long contexts need FlashAttention or windowing.

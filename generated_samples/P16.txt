@@ -1,0 +1,16 @@
+Prompt ID: P16
+Title: Recipe Instructions
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Write a step-by-step recipe for vegetable fried rice for 2 people, including ingredients list, time, and one vegan substitution tip.
+---
+Vegetable Fried Rice (2 servings, 25 mins)
+
+Ingredients: 2 cups cooked day-old rice, 1 cup mixed veggies (carrot, peas, beans, capsicum), 2 tbsp oil, 2 garlic cloves minced, 1 small onion diced, 2 tbsp soy sauce, 1 tsp vinegar, 1/2 tsp pepper, salt to taste, spring onions to garnish.
+
+1. Heat oil on high in wok. Sizzle garlic 20 sec.
+2. Add onion, stir-fry 2 mins. Add hard veggies first, cook 3 mins, then soft ones 2 mins.
+3. Push veggies aside, add rice, toss 3 mins until grains separate and toast lightly.
+4. Add soy sauce, vinegar, pepper, salt. Toss 2 mins.
+5. Top with spring onions. Serve hot.
+
+Vegan tip: Already vegan! For extra protein, swap extra oil-butter with crisp tofu cubes instead of egg.

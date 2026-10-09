@@ -1,0 +1,29 @@
+Files evaluated: 22
+Avg words/sample: 97.0
+Avg type-token ratio: 0.814
+Total tokens: 2133 | unique: 1189
+Proxy perplexity: N/A - GPT-2 scorer unavailable (ModuleNotFoundError)
+
+Per-file: name | words | unique | TTR
+P01.txt | 132 | 106 | 0.803
+P02.txt | 150 | 114 | 0.760
+P03.txt | 91 | 78 | 0.857
+P04.txt | 42 | 42 | 1.000
+P05.txt | 88 | 74 | 0.841
+P06.txt | 66 | 57 | 0.864
+P07.txt | 115 | 96 | 0.835
+P08.txt | 26 | 24 | 0.923
+P09.txt | 102 | 67 | 0.657
+P10.txt | 102 | 62 | 0.608
+P11.txt | 63 | 45 | 0.714
+P12.txt | 117 | 98 | 0.838
+P13.txt | 103 | 88 | 0.854
+P14.txt | 99 | 88 | 0.889
+P15.txt | 107 | 85 | 0.794
+P16.txt | 131 | 86 | 0.656
+P17.txt | 109 | 96 | 0.881
+P18.txt | 94 | 76 | 0.809
+P19.txt | 59 | 52 | 0.881
+P20.txt | 110 | 90 | 0.818
+P21.txt | 120 | 95 | 0.792
+P22.txt | 107 | 89 | 0.832

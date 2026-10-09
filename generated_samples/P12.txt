@@ -1,0 +1,10 @@
+Prompt ID: P12
+Title: History Explainer
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: In 150 words, explain why the printing press was transformative for Europe in the 15th century. Mention two specific effects.
+---
+Before Gutenberg's press around 1440, books were hand-copied by monks — slow, expensive, and rare. The movable-type press could print 3,000 pages a day, cutting book costs by over 80%.
+
+Two effects changed Europe. First, knowledge spread: Luther's 95 Theses were reprinted and shared across Germany within weeks in 1517, fueling the Reformation — impossible in a manuscript age. Second, science accelerated: standard identical textbooks and tables let scholars in Venice and Krakow compare the same data, correct errors, and build on each other, laying groundwork for the Scientific Revolution.
+
+Literacy rose from under 10% toward 20%+ in towns within a century. Ideas were no longer locked in monasteries; they traveled with merchants, students, and reformers.

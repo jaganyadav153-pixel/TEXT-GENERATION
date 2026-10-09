@@ -1,0 +1,6 @@
+Prompt ID: P18
+Title: Interview Answer
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Answer "Tell me about yourself" for a fresher software engineering graduate applying for a backend role, in 100-120 words, confident but not arrogant tone.
+---
+I'm a recent Computer Science graduate from Pune with a focus on backend development. During college I built two REST APIs with Python Flask and PostgreSQL — one for campus event bookings handling 500+ users — and interned where I reduced a report query from 9 seconds to 1.2 seconds by adding indexing. I'm comfortable with Git, Docker basics, and writing tested code. What excites me about your team is the scale of payments data and your mentorship culture. I'm eager to learn production best practices quickly and contribute reliable, clean code from day one.

@@ -1,0 +1,14 @@
+Prompt ID: P17
+Title: Travel Guide
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write a 130-word travel guide entry for Hampi, India: best season, top 2 spots, local food, and one practical tip.
+---
+Hampi, Karnataka — a boulder-strewn open museum of Vijayanagara ruins and paddy fields.
+
+Best season: October to February, when 22-28°C makes climbing Matanga Hill for sunrise bearable.
+
+Don't miss: 1) Virupaksha Temple, still worshipped after 1,400 years, its gopuram glowing at dusk. 2) Stone Chariot at Vittala Temple complex plus the musical pillars that hum when tapped gently.
+
+Eat: Banana-leaf meals, mirchi bajji, and filter coffee at Mango Tree café across the river in Virupapur Gadde.
+
+Practical tip: Rent a bicycle (Rs 150/day), carry 2L water, and start at 7am — monuments close at 6pm and midday rock heat is brutal. Respect temple dress codes.

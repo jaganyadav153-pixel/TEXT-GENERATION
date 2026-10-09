@@ -1,0 +1,12 @@
+Prompt ID: P02
+Title: Sci-Fi Flash Fiction
+Model: gemini-3-pro-preview (Google Gemini 3 family, hosted API)
+Prompt: Write a 150-word flash fiction story about an astronaut who discovers a garden growing inside an asteroid. End with a twist.
+---
+Commander Diaz drilled for ice and hit soil. Inside asteroid KA-9, her headlamp found rows of green: tomatoes, marigolds, beans climbing strings tied to pitons, all breathing in recycled dark. No station, no log, just a hand-painted sign: WATER ME — J.
+
+For three days she tended it, rationing her own water, wondering which lost mission had left a gardener. The leaves turned toward her lamp as if grateful. On the fourth morning, the beans had spelled a new word overnight in their curling vines: STAY.
+
+Her radio crackled then — Mission Control, frantic: "Diaz, you've been silent 72 hours. Your oxygen should have run out on day one."
+
+She looked at her gauge. Full. She looked at the vines, now gently wrapping her boots, the tomatoes warm as skin. The sign had changed. It read: WATERED — J. And she finally understood whose initials were carved into her own helmet.

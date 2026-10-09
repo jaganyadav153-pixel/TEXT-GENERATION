@@ -1,0 +1,14 @@
+Prompt ID: P15
+Title: Dialogue Writing
+Model: gpt-5 (OpenAI GPT-5 family, hosted API)
+Prompt: Write a natural 10-line dialogue between a job applicant and an interviewer where the applicant asks about work-life balance.
+---
+Interviewer: So, do you have any questions for us?
+Applicant: Yes — how does the team usually handle work-life balance during release weeks?
+Interviewer: Honest answer? Releases get intense, but we rota on-call and discourage weekend pings.
+Applicant: That's good to hear. Are flexible hours an option when there's no deadline?
+Interviewer: Absolutely. Most of us do 10 to 4 core hours, rest async.
+Applicant: And vacation — is it actually encouraged?
+Interviewer: Yes, managers nudge you if you haven't taken time off in a quarter.
+Applicant: Perfect. I do my best work when I can recharge fully.
+Interviewer: That's exactly the culture we're trying to protect.
